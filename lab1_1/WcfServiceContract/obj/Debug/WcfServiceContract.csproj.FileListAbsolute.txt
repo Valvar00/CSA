@@ -1,0 +1,11 @@
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.dll.config
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.dll
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.pdb
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\obj\Debug\WcfServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\obj\Debug\WcfServiceContract.dll
+C:\Users\artem\source\repos\lab1_1\WcfServiceContract\obj\Debug\WcfServiceContract.pdb
+D:\Users\240962\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.dll.config
+D:\Users\240962\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.dll
+D:\Users\240962\lab1_1\WcfServiceContract\bin\Debug\WcfServiceContract.pdb
+D:\Users\240962\lab1_1\WcfServiceContract\obj\Debug\WcfServiceContract.dll
+D:\Users\240962\lab1_1\WcfServiceContract\obj\Debug\WcfServiceContract.pdb
