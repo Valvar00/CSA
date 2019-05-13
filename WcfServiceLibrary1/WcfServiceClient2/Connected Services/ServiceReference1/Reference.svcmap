@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="37a4b695-569f-4f9f-a8ff-b9b618e42704" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:10006/Calc1" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Calc1.xsd" MetadataType="Schema" ID="5e46f987-5fa8-473f-938c-e70649de3682" SourceId="1" SourceUrl="http://localhost:10006/Calc1?xsd=xsd0" />
+    <MetadataFile FileName="MyCalculator.wsdl" MetadataType="Wsdl" ID="2a134d7c-2a45-4891-a64d-c63271a8978f" SourceId="1" SourceUrl="http://localhost:10006/Calc1?wsdl" />
+    <MetadataFile FileName="Calc11.xsd" MetadataType="Schema" ID="aa99cc0d-bb10-40b5-9da0-73f08efa7a16" SourceId="1" SourceUrl="http://localhost:10006/Calc1?xsd=xsd2" />
+    <MetadataFile FileName="Calc1.disco" MetadataType="Disco" ID="fe4b70bd-3be3-495b-b0a6-02e894728af8" SourceId="1" SourceUrl="http://localhost:10006/Calc1?disco" />
+    <MetadataFile FileName="Calc12.xsd" MetadataType="Schema" ID="e4e4a048-2e7e-47ee-b436-2b89444fd6cf" SourceId="1" SourceUrl="http://localhost:10006/Calc1?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
