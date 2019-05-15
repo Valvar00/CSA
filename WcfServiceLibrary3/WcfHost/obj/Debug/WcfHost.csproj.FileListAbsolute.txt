@@ -1,0 +1,11 @@
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfHost.exe
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfHost.pdb
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfServiceLibrary3.dll
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfServiceLibrary3.pdb
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\bin\Debug\WcfServiceLibrary3.dll.config
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\obj\Debug\WcfHost.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\obj\Debug\WcfHost.csproj.CopyComplete
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\obj\Debug\WcfHost.exe
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfHost\obj\Debug\WcfHost.pdb

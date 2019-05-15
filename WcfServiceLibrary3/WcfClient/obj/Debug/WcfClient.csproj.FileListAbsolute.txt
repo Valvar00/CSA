@@ -1,0 +1,11 @@
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfServiceLibrary3.dll
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfServiceLibrary3.pdb
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\bin\Debug\WcfServiceLibrary3.dll.config
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\obj\Debug\WcfClient.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\obj\Debug\WcfClient.csproj.CopyComplete
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\artem\source\repos\WcfServiceLibrary3\WcfClient\obj\Debug\WcfClient.pdb
