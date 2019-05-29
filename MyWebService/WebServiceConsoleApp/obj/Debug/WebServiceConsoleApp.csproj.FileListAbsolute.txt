@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.exe.config
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.exe
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.pdb
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.exe
+C:\Users\artem\source\repos\MyWebService\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.pdb

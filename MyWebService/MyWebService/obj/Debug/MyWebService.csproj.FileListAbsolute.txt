@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\MyWebService\MyWebService\obj\Debug\MyWebService.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\MyWebService\MyWebService\bin\MyWebService.dll.config
+C:\Users\artem\source\repos\MyWebService\MyWebService\bin\MyWebService.dll
+C:\Users\artem\source\repos\MyWebService\MyWebService\bin\MyWebService.pdb
+C:\Users\artem\source\repos\MyWebService\MyWebService\obj\Debug\MyWebService.dll
+C:\Users\artem\source\repos\MyWebService\MyWebService\obj\Debug\MyWebService.pdb
