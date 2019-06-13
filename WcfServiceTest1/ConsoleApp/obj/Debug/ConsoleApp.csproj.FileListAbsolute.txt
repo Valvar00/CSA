@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\artem\source\repos\WcfServiceTest\ConsoleApp\obj\Debug\ConsoleApp.pdb

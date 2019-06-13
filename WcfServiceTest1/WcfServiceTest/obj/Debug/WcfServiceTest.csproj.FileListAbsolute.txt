@@ -1,0 +1,7 @@
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\bin\WcfServiceTest.dll.config
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\bin\WcfServiceTest.dll
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\bin\WcfServiceTest.pdb
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\obj\Debug\WcfServiceTest.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\obj\Debug\WcfServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\obj\Debug\WcfServiceTest.dll
+C:\Users\artem\source\repos\WcfServiceTest\WcfServiceTest\obj\Debug\WcfServiceTest.pdb
